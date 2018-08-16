@@ -1,0 +1,26 @@
+	* CS50W Introduction *
+
+ - What will be covered -
+Flask - A micro-framework
+SQL - Query language
+APIs - Application Program Interface
+JavaScript - Web scripting language
+Front Ends - Modern paradigms used for implementing modern applications
+Django - Similar to flask in spirit, comes with a lot more
+Testing, CI/CD - AKA DevOPs making sure your code works.
+		 Continous integration, continuous development.
+Scalability - DNS, Load Balancing, anticipating server increases, etc.
+Security - Best practices
+
+ - Version Control -
+Keeps track of different versions.
+Synchronizes code between different people.
+Both people will have access, differences are merged.
+Git is good at letting you test your code wthout losing the original.
+Can revert back to older versions of code.	 
+
+ - Commands -
+git clone <gitURL> - Clones the files at the URL on to current directory.
+git add <fileName> - Adds a file to the files to be tracked.
+git commit -m "Message" - Commits to your repo with a message attached.
+
